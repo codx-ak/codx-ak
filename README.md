@@ -23,11 +23,11 @@ Hello and welcome to my GitHub profile! I'm a passionate Frontend developer with
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [codx-paradise.github.io/Portfolio/](codx-paradise.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://codx-paradise.github.io/Website)
 
 - 💬 Ask me about Ask me about anything related to MERN stack and related technologies  
 
-- 📫 How to reach me **akmoorthi002@gmail.com**
+- 📫 How to reach me **codxmoorthi@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
