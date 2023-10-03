@@ -23,7 +23,9 @@ Hello and welcome to my GitHub profile! I'm a passionate Frontend developer with
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://codx-paradise.github.io/Website)
+- 👨‍💻 All of my projects are available at
+-  [Portfolio](https://codx-paradise.github.io/Website)
+-  [Portfolio - 2](https://codx-moorthi.netlify.app/)
 
 - 💬 Ask me about Ask me about anything related to MERN stack and related technologies  
 
